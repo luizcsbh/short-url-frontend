@@ -1,46 +1,20 @@
-# Getting Started with Create React App
+![Build](https://img.shields.io/github/actions/workflow/status/luizcsbh/short-url-frontend/laravel.yml)
+![Code Size](https://img.shields.io/github/languages/code-size/luizcsbh/short-url-frontend)
+[![Lincen&ccedil;a](https://img.shields.io/github/license/luizcsbh/short-url-frontend)](https://github.com/luizcsbh/short-url-frontend/blob/main/LICENSE)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Sobre ShortUrl Frontend
 
-## Available Scripts
+O *ShotURL* &eacute; uma aplica&ccedil;&atilde;o web simples aqui est� o reposit�rio frontend desenvolvido em React.js onde h&aacute; um formul&aacute;rio com entrada de dados como: url. Onde &eacute; gerado uma nova url encurtada.
 
-In the project directory, you can run:
 
-### `npm start`
+## Patrocinador
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Se voc&ecirc; quer ser um financiador click em [Patreon page](https://www.patreon.com/luizcsbh).
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Seguran&ccedil;a e Vulnerabilidades
 
-### `npm test`
+Se voc&ecirc; descobrir uma vulnerabilidade de seguran&ccedil;a no Geador de Qr-Code, envie um e-mail para Luiz Santos via [luizcsdev@gmail.com](mailto:luizcsdev@gmail.com). Todas as vulnerabilidades de seguran&ccedil;a ser&atilde;o prontamente abordadas.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Licen&ccedil;a
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+O Gerador de Qr-Code &eacute; um software licenciado para  [MIT license](https://opensource.org/licenses/MIT).
