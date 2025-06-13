@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/93c5c0ab-7f50-43fd-8e7f-8c4472ea7ca3/deploy-status)](https://app.netlify.com/projects/projectshorturl/deploys)
 ![Code Size](https://img.shields.io/github/languages/code-size/luizcsbh/short-url-frontend)
 [![Lincen&ccedil;a](https://img.shields.io/github/license/luizcsbh/short-url-frontend)](https://github.com/luizcsbh/short-url-frontend/blob/main/LICENSE)
 
