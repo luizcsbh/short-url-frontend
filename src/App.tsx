@@ -9,7 +9,7 @@ const App: React.FC = () => {
       <Header />
       <HomePage />
       <div className="advertisement-placeholder">
-        {/* Espaço reservado para a propaganda do Google */}
+        {/* Espaï¿½o reservado para a propaganda do Google */}
         <p>Propaganda do Google</p>
       </div>
       <Footer />

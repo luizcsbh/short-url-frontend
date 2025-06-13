@@ -1,5 +1,11 @@
 .App {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between; /* Isso garante que o conteúdo vá para o topo e o footer para o final */
   text-align: center;
+  padding: 20px;
+  color: var(--title-color);
 }
 
 .App-logo {
@@ -27,6 +33,8 @@
 .App-link {
   color: #61dafb;
 }
+
+
 
 @keyframes App-logo-spin {
   from {
